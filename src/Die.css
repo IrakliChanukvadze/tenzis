@@ -12,3 +12,10 @@
 .green {
   background-color: green;
 }
+
+@media screen and (max-width: 450px) {
+  .die {
+    width: 3rem;
+    height: 3rem;
+  }
+}
